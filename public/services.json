@@ -1,0 +1,53 @@
+[
+    {
+        "_id": "635a0c0b64a6d231228942ae",
+        "service_id": "04",
+        "title": "Web Development",
+        "img": "https://i.ibb.co/SXHR1Lt/hero.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit"
+    },
+    {
+        "_id": "635a0c0b64a6d231228942af",
+        "service_id": "05",
+        "title": "Responsive Design",
+        "img": "https://i.ibb.co/c1ZX8q7/web4.jpg",
+        "price": "25.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        "_id": "635b591a1dafe382a9da8c96",
+        "service_id": "01",
+        "title": "App Development",
+        "img": "https://i.ibb.co/9rvbr3Z/web1.jpg",
+        "price": "30.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. "
+        
+    },
+    {
+        "_id": "635b5afc1dafe382a9da8c98",
+        "service_id": "02",
+        "title": "Server Service",
+        "img": "https://i.ibb.co/Z6g95JR/web2.jpg",
+        "price": "15.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "_id": "635b5b691dafe382a9da8c99",
+        "service_id": "03",
+        "title": "wordpress Development",
+        "img": "https://i.ibb.co/SXHR1Lt/hero.jpg",
+        "price": "30.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "_id": "635b5ba51dafe382a9da8c9a",
+        "service_id": "06",
+        "title": "Ecommerce Development",
+        "img": "https://i.ibb.co/9rvbr3Z/web1.jpg",
+        "price": "20.00",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }
+]
